@@ -1,61 +1,99 @@
 <h1 align="center">Hi 👋, I'm Luis Sanchez</h1>
-<h3 align="center">Fullstack Developer | DevOps Engineer | Data Scientist</h3>
+<h3 align="center">Fullstack Developer | DevOps Engineer | Machine Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/hlcxpl"><img src="https://komarev.com/ghpvc/?username=hlcxpl&label=Profile%20views&color=0e75b6&style=flat" alt="hlcxpl" /></a>
   <a href="https://twitter.com/hlcxpl"><img src="https://img.shields.io/twitter/follow/hlcxpl?logo=twitter&style=flat-square" alt="hlcxpl" /></a>
 </p>
 
-## 🧑‍💻 About Me
-- 👨‍💻 Computer Engineer with 5+ years of experience in development and DevOps.
-- 🚀 I build production-ready web apps, scalable APIs, and ML pipelines.
-- 🔭 Currently working on **[kiwi ecommerce](https://shopg-33.netlify.app/)** and ML use cases.
-- 🌱 Currently mastering **Dash, FastAPI, Next.js, Kafka, Airflow**.
-- 💬 Ask me about: **React, Node, Java, Spring, Flask, CI/CD, Data Science**.
-- 🧠 Passionate about clean architecture, code quality, automation, and smart systems.
-- 📫 Reach me: **hlcxpl@gmail.com**
+---
 
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/luisomarsanchezdiaz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="https://stackoverflow.com/users/21915164/luis"><img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&style=flat-square" /></a>
-  <a href="https://twitter.com/hlcxpl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square" /></a>
+## 🧑‍💻 About Me
+- 🎓 I'm a **Computer Engineer** with 5+ years of industry experience.
+- 🔭 Currently working on [kiwi ecommerce](https://shopg-33.netlify.app/), real-time APIs, and ML-powered apps.
+- 🌱 Exploring: **Python, Angular, Vue, Laravel, Flutter, NLP, Deep Learning**.
+- 🧠 Passionate about **system automation, backend architecture, and ML solutions**.
+- 💬 Ask me about **Flask, Java, Spring Boot, React, Dash, Docker, Jenkins, ML**.
+- 👯 Looking to collaborate on **DevOps pipelines, AI/ML apps, or backend APIs**.
+- 📫 Contact me at **hlcxpl@gmail.com**
+- ⚡ Fun Fact: I’m a **meme creator with a love for problem-solving**.
+
+---
+
+## 🧠 Featured Projects
+| Project | Stack | Demo |
+|--------|-------|------|
+| **Kiwi Ecommerce** | React · Node.js · MongoDB | [Live Site](https://shopg-33.netlify.app) |
+| **Dash Dashboard** | Dash · Plotly · Pandas | Coming soon |
+| **AI Chatbot** | Python · Rasa · Flask | Coming soon |
+
+---
+
+## 🚀 GitHub Stats & Badges
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hlcxpl&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hlcxpl&theme=radical&hide_border=false" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hlcxpl&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hlcxpl&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hlcxpl&theme=onedark&column=7" />
+</p>
+
+---
 
 ## 🧰 Tech Stack
 
-### 🎨 Frontend
-- React.js, Vue.js, Angular, Dash (Plotly), Next.js, Tailwind, Bootstrap
+### 🖥️ Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 
-### 🛠️ Backend
-- Node.js, Express, Python (Flask, FastAPI, Django), Java (Spring Boot), PHP (Laravel), RESTful APIs
+### ⚙️ Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
 
-### 📚 Data Science & ML
-- Python, Pandas, Numpy, Scikit-learn, TensorFlow, Jupyter, Matplotlib, Seaborn, Dash
+### 📊 Data Science / AI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
 
-### 📦 Databases
-- PostgreSQL, MySQL, MongoDB, SQLite, Redis
-
-### ⚙️ DevOps & CI/CD
-- Docker, Docker Compose, Jenkins, GitHub Actions, GitLab CI, Ansible, NGINX, Apache
+### 🧪 DevOps & Automation
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
 
 ### 🔍 Monitoring & Observability
-- Prometheus, Grafana, ElasticSearch, Kibana, Instana, Splunk, SonarQube, Jaeger
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elastic/elastic-original.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/splunk/000000" width="40"/>
+<img src="https://cdn.simpleicons.org/instana/000000" width="40"/>
 
-### ☁️ Cloud & Platforms
-- AWS, Heroku, Firebase, Vercel, Render, Netlify
+---
 
-### 🛠 Tools & Utilities
-- Git, Linux, Postman, Bash, Make, Webpack, Vite, ESLint, Prettier, VS Code, IntelliJ
+## ☁️ Let's Connect
+<a href="https://linkedin.com/in/luisomarsanchezdiaz"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
+<a href="https://dev.to/hlcxpl"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
+<a href="https://twitter.com/hlcxpl"><img src="https://img.shields.io/twitter/follow/hlcxpl?label=Twitter&style=flat-square"/></a>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hlcxpl&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlcxpl&theme=radical" width="49%" />
-</p>
+---
 
 ## ☕ Support Me
-<p>
-  <a href="https://www.buymeacoffee.com/hlcxpl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" /></a>
-</p>
 <p><a href="https://www.buymeacoffee.com/hlcxpl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" /></a></p>
