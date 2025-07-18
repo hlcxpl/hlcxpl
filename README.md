@@ -2,6 +2,8 @@
 
 <h3 align="center">💻 Fullstack Developer | 🧠 Data Scientist | 🎓 Computer Engineer | ⚙️ DevOps</h3>
 
+
+
 <p align="center">
   With over 5 years of experience in software development and DevOps, I've built scalable platforms across various sectors, including <strong>mining</strong>, <strong>agriculture</strong>, and <strong>finance</strong>. <br />
   My core stack includes <strong>JavaScript (React/Node.js)</strong>, <strong>Python (Flask/Django/Dash)</strong>, <strong>Java (Spring Boot)</strong>, and DevOps tools like <strong>Docker, Jenkins, and GitHub Actions</strong>.
