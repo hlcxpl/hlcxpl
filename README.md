@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Sanchez</h1>
+<h1 align="center">Luis Sanchez</h1>
 
 ### 💻 Fullstack Developer | 🧠 Data Scientist | 🎓 Computer Engineer | ⚙️ Devops
 
