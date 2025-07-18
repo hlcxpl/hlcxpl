@@ -100,11 +100,18 @@ With over 5 years of experience in software development and DevOps, I've built s
 
 ### 🔍 Monitoring & Observability
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elastic/elastic-original.svg" width="40"/>
-<img src="https://cdn.simpleicons.org/splunk/000000" width="40"/>
-<img src="https://cdn.simpleicons.org/instana/000000" width="40"/>
+  <!-- Funcionando correctamente -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" alt="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" alt="Prometheus"/>
+
+  <!-- Elastic Search (alternativa directa SVG) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" alt="Elasticsearch"/>
+
+  <!-- Splunk -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Splunk_logo.svg" width="100" alt="Splunk"/>
+
+  <!-- Instana (sin ícono oficial público, usar imagen SVG directa de IBM) -->
+  <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/64a576b41c5c26305a3c3a83_IBM_Instana_Observability.svg" width="100" alt="Instana"/>
 </p>
 
 ---
