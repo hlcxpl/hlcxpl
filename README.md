@@ -1,4 +1,4 @@
-<h1 align="center">Luis Sanchez</h1>
+ <h1 align="center">Luis Sanchez</h1>
 
 ### 💻 Fullstack Developer | 🧠 Data Scientist | 🎓 Computer Engineer | ⚙️ Devops
 
@@ -18,7 +18,6 @@ With over 5 years of experience in software development and DevOps, I've built s
 </p>
 
 
-
 ---
 
 ## 🧑‍💻 About Me
@@ -34,12 +33,12 @@ With over 5 years of experience in software development and DevOps, I've built s
 🌍 Originally from Venezuela 🇻🇪, based in Chile 🇨🇱, working remotely 🌐.
 ---
 
-## 🧠 Featured Projects
-| Project | Stack | Demo |
-|--------|-------|------|
-| **Kiwi Ecommerce** | React · Node.js · MongoDB | [Live Site](https://shopg-33.netlify.app) |
-| **Dash Dashboard** | Dash · Plotly · Pandas | Coming soon |
-| **AI Chatbot** | Python · Rasa · Flask | Coming soon |
+
+### 📂 Devops Templates Projects
+<!-- Update with your pinned repos or recent projects -->
+- 🔗 [devops-selenium-pytest](https://github.com/hlcxpl/devops-selenium-pytest) - Selenium tests with CI/CD
+- 🔗 [cookiecutter-flask-api-env-rooted](https://github.com/hlcxpl/cookiecutter-flask-api-env-rooted) - Flask API template with JWT & Swagger
+
 
 ---
 
