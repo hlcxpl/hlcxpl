@@ -112,6 +112,7 @@ With over 5 years of experience in software development and DevOps, I've built s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" alt="Prometheus"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" alt="Elasticsearch"/>
   <img src="https://cdn.simpleicons.org/splunk/000000" width="80" alt="Splunk"/>
+  <img src="https://static.cdnlogo.com/logos/i/55/instana-inc.svg" width="40" alt="Instana" />
 </p>
 
 
