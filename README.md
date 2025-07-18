@@ -64,7 +64,7 @@ With over 5 years of experience in software development and DevOps, I've built s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/480px-Plotly-logo-01-square.png" width="40" title="Dash by Plotly"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/480px-Plotly-logo-01-square.png" width="60" title="Dash by Plotly"/>
 </p>
 
 ### ⚙️ Backend
