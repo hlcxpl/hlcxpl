@@ -99,7 +99,7 @@ With over 5 years of experience in software development and DevOps, I've built s
 ### 🔍 Monitoring & Observability
 <p align="left">
   <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch" />
-  <img src="https://cdn.simpleicons.org/splunk/000000" width="100" alt="Splunk"/>
+  <img src="https://cdn.simpleicons.org/splunk/000000" width="100" height="30" alt="Splunk"/>
   <img src="https://static.cdnlogo.com/logos/i/55/instana-inc.svg" width="40" alt="Instana" />
 </p>
 
