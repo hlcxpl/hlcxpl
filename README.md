@@ -1,63 +1,69 @@
 
-# 👋 Hi, I'm Luis Sánchez
+<h1 align="center">Hi 👋, I'm Luis Sanchez</h1>
+<h3 align="center">🚀 Fullstack Developer | DevOps Engineer | Data Scientist in Progress</h3>
 
-### 💻 Fullstack JavaScript Developer | 🧠 Data Scientist in Progress | 🎓 Computer Engineer
-
-With over 5 years of experience in software development and DevOps, I've built scalable platforms across various sectors, including **mining**, **agriculture**, and **finance**. My core stack includes **JavaScript (React/Node.js)**, **Python (Flask/Django/Dash)**, **Java (Spring Boot)**, and DevOps tools like **Docker, Jenkins, and SonarQube**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hlcxpl&label=Profile%20views&color=0e75b6&style=flat" alt="hlcxpl" />
+  <a href="https://twitter.com/hlcxpl" target="blank">
+    <img src="https://img.shields.io/twitter/follow/hlcxpl?logo=twitter&style=for-the-badge" alt="hlcxpl" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: `E-commerce (KIWI)` and real-time apps with Next.js & Dash.
-- 📊 Practicing: Data Science, Machine Learning, Python for AI.
-- 👯 I'm open to collaboration on: AI + DevOps projects, Open Source APIs, Developer Tools.
-- 🌱 Learning: FastAPI, Kafka, PyTorch, TensorFlow, LangChain.
-- 📫 How to reach me: **hlcxpl@gmail.com**
-- 🧠 Fun fact: I love creating memes and technical diagrams with Mermaid & PlantUML.
+🎓 I'm a Computer Engineer with 6+ years of experience in the tech industry, specializing in:
+- 🖥️ Fullstack JavaScript (React, Node.js, Express, Next.js)
+- 🐍 Python (Django, Flask, Dash)
+- ☕ Java (Spring Boot, Maven)
+- 🤖 Machine Learning and Data Science (Pandas, Scikit-learn, TensorFlow)
+- 🐳 DevOps & Automation (Docker, Jenkins, GitHub Actions, SonarQube)
+
+💼 I've built applications for Mining, Finance, Agriculture, and Smart Water Management industries.
+
+🌍 Originally from Venezuela 🇻🇪, based in Chile 🇨🇱, working remotely 🌐.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Languages and Tools
 
-**Languages**: JavaScript, Python, Java, SQL, PHP, Bash  
-**Frontend**: React, Vue.js, Next.js, Tailwind, Bootstrap, MaterialUI  
-**Backend**: Node.js, Flask, Django, Spring Boot, Express  
-**Data**: Pandas, Numpy, Matplotlib, Plotly, PostgreSQL, MongoDB, MySQL  
-**DevOps**: Docker, Jenkins, GitHub Actions, SonarQube, Selenium, JMeter  
-**Cloud**: Azure, Heroku, Firebase, Render  
-**Tools**: Git, Postman, Swagger, Figma, Linux, ELK Stack, JIRA  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hlcxpl&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlcxpl&theme=radical" width="48%"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlcxpl&layout=compact&theme=radical" width="48%"/>
-</p>
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Stats
 
-- [🔗 DevOps Selenium Pytest GitHub Action](https://github.com/hlcxpl/devops-selenium-pytest) — Multi-browser testing with CI
-- [📊 Dash Data App](https://github.com/hlcxpl/dash-data-app) — Python Dash for real-time analytics
-- [🧠 NeuroTIP AI Platform](https://github.com/hlcxpl/neurotip) — AI-driven tech business platform (WIP)
-- [🛒 KIWI E-commerce](https://shopg-33.netlify.app/) — Serverless e-commerce with modern stack
+![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=hlcxpl&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlcxpl&layout=compact&theme=radical)
 
 ---
 
-## 📬 Connect with Me
+## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/luisomarsanchezdiaz/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&style=for-the-badge)](https://twitter.com/hlcxpl)
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@hlcxpl)
-[![Dev.to](https://img.shields.io/badge/Dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/hlcxpl)
-[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-yellow?logo=buymeacoffee&style=for-the-badge)](https://www.buymeacoffee.com/hlcxpl)
+<a href="https://www.linkedin.com/in/luisomarsanchezdiaz/" target="_blank">LinkedIn</a> |
+<a href="https://twitter.com/hlcxpl" target="_blank">Twitter</a> |
+<a href="mailto:hlcxpl@gmail.com">Email</a> |
+<a href="https://hlcxpl.github.io/" target="_blank">Portfolio</a>
 
 ---
 
+## ☕ Support Me
+
+<a href="https://www.buymeacoffee.com/hlcxpl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="Buy Me A Coffee" /></a>
+
+---
