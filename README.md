@@ -67,10 +67,6 @@ With over 5 years of experience in software development and DevOps, I've built s
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/480px-Plotly-logo-01-square.png" width="120" alt="Dash by Plotly"/>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" alt="shadcn/ui" title="shadcn/ui"/>
 </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,chadcn/ui,Plotly" />
-</p>
-
 
 ---
 
@@ -85,6 +81,9 @@ With over 5 years of experience in software development and DevOps, I've built s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python,flask,django" />
 </p>
 
 ---
