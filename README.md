@@ -17,12 +17,12 @@ With over 5 years of experience in software development and DevOps, I've built s
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hlcxpl&theme=algolia" alt="Trophies" />
-  </a>
-</p>
-
+<a href="https://github.com/hlcxpl">
+  <img src="https://img.shields.io/github/languages/top/hlcxpl/nombre-repo?style=flat-square" alt="Top language" />
+</a>
+<a href="https://github.com/hlcxpl">
+  <img src="https://img.shields.io/github/languages/count/hlcxpl?style=flat-square" alt="Languages Count" />
+</a>
 
 
 ---
