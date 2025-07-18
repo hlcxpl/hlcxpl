@@ -100,7 +100,6 @@ With over 5 years of experience in software development and DevOps, I've built s
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&style=for-the-badge)](https://twitter.com/hlcxpl)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@hlcxpl)
 [![Dev.to](https://img.shields.io/badge/Dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/hlcxpl)
-[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-yellow?logo=buymeacoffee&style=for-the-badge)](https://www.buymeacoffee.com/hlcxpl)
 
 ---
 
