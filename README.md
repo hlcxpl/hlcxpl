@@ -74,6 +74,15 @@ With over 5 years of experience in software development and DevOps, I've built s
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python,flask,django" />
+   <img src="https://skillicons.dev/icons?i=kafka" />
+</p>
+
+---
+
+### 🔄 Messaging & Streaming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
 </p>
 
 ---
