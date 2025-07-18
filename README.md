@@ -85,7 +85,7 @@ With over 5 years of experience in software development and DevOps, I've built s
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,tensorflow,opencv,scikit-learn,matplotlib,seaborn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 </p>
 
 
