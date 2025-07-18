@@ -68,7 +68,7 @@ With over 5 years of experience in software development and DevOps, I've built s
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" alt="shadcn/ui" title="shadcn/ui"/>
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,dash,chadcn/ui,Plotly" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,chadcn/ui,Plotly" />
 </p>
 
 
