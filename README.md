@@ -15,7 +15,6 @@ With over 5 years of experience in software development and DevOps, I've built s
 
 ## 🧑‍💻 About Me
 - 🎓 I'm a **Computer Engineer** with 5+ years of industry experience.
-- 🔭 Currently working on [kiwi ecommerce](https://shopg-33.netlify.app/), real-time APIs, and ML-powered apps.
 - 🌱 Exploring: **Python, Angular, Vue, Laravel, Flutter, NLP, Deep Learning**.
 - 🧠 Passionate about **system automation, backend architecture, and ML solutions**.
 - 💬 Ask me about **Flask, Java, Spring Boot, React, Dash, Docker, Jenkins, ML**.
