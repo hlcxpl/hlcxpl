@@ -1,8 +1,11 @@
  <h1 align="center">Luis Sanchez</h1>
 
-### 💻 Fullstack Developer | 🧠 Data Scientist | 🎓 Computer Engineer | ⚙️ Devops
+<h3 align="center">💻 Fullstack Developer | 🧠 Data Scientist | 🎓 Computer Engineer | ⚙️ DevOps</h3>
 
-With over 5 years of experience in software development and DevOps, I've built scalable platforms across various sectors, including **mining**, **agriculture**, and **finance**. My core stack includes **JavaScript (React/Node.js)**, **Python (Flask/Django/Dash)**, **Java (Spring Boot)**, and DevOps tools like **Docker, Jenkins, and GitHubActions**.
+<p align="center">
+  With over 5 years of experience in software development and DevOps, I've built scalable platforms across various sectors, including <strong>mining</strong>, <strong>agriculture</strong>, and <strong>finance</strong>. <br />
+  My core stack includes <strong>JavaScript (React/Node.js)</strong>, <strong>Python (Flask/Django/Dash)</strong>, <strong>Java (Spring Boot)</strong>, and DevOps tools like <strong>Docker, Jenkins, and GitHub Actions</strong>.
+</p>
 
 ---
 
