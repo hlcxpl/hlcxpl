@@ -109,7 +109,7 @@ With over 5 years of experience in software development and DevOps, I've built s
 
 ### 🖥️ Sistemas Operativos
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,apple,aws" />
+  <img src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,apple" />
 </p>
 
 ---
