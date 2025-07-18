@@ -78,8 +78,6 @@ With over 5 years of experience in software development and DevOps, I've built s
 
 ---
 
-¿Te gustaría que actualice las otras secciones también con más herramientas modernas o populares?
-
 ### 📊 Data Science / AI
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
@@ -89,10 +87,14 @@ With over 5 years of experience in software development and DevOps, I've built s
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
 </p>
 
+---
+
 ### 🧪 DevOps & Automation
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,kubernetes,git,linux" />
 </p>
+
+---
 
 ### 🔍 Monitoring & Observability
 <p>
