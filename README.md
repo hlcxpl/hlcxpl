@@ -100,5 +100,6 @@ With over 5 years of experience in software development and DevOps, I've built s
 
 ---
 
-## ☕ Support Me
-<p><a href="https://www.buymeacoffee.com/hlcxpl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" /></a></p>
+### ☕ Support Me
+<p><a href="https://www.buymeacoffee.com/hlcxpl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="hlcxpl" /></a>
+<a href="https://ko-fi.com/hlcxpl"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="hlcxpl" /></a></p>
