@@ -7,9 +7,23 @@ With over 5 years of experience in software development and DevOps, I've built s
 ---
 
 <p align="center">
-  <a href="https://github.com/hlcxpl"><img src="https://komarev.com/ghpvc/?username=hlcxpl&label=Profile%20views&color=0e75b6&style=flat" alt="hlcxpl" /></a>
-  <a href="https://twitter.com/hlcxpl"><img src="https://img.shields.io/twitter/follow/hlcxpl?logo=twitter&style=flat-square" alt="hlcxpl" /></a>
+  <a href="https://github.com/hlcxpl">
+    <img src="https://komarev.com/ghpvc/?username=hlcxpl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://twitter.com/hlcxpl">
+    <img src="https://img.shields.io/twitter/follow/hlcxpl?logo=twitter&style=flat-square" alt="Twitter Follow" />
+  </a>
+  <a href="https://github.com/hlcxpl?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/hlcxpl" alt="Total Repos" />
+  </a>
+  <a href="https://github.com/hlcxpl">
+    <img src="https://badges.pufler.dev/commits/monthly/hlcxpl" alt="Monthly Commits" />
+  </a>
+  <a href="https://github.com/hlcxpl">
+    <img src="https://img.shields.io/github/followers/hlcxpl?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
 </p>
+
 
 ---
 
