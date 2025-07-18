@@ -15,8 +15,6 @@ With over 5 years of experience in software development and DevOps, I've built s
   <a href="https://github.com/hlcxpl">
     <img src="https://img.shields.io/github/followers/hlcxpl?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-</p>
-
 <!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=hlcxpl&label=Profile%20views&color=0e75b6&style=flat" alt="hlcxpl" />
 
@@ -31,6 +29,8 @@ With over 5 years of experience in software development and DevOps, I've built s
 
 <!-- Number of public repos -->
 <img src="https://img.shields.io/badge/Public%20Repos-XX-blue?style=flat-square" alt="Repos" /> <!-- Reemplaza XX manualmente -->
+</p>
+
 
 
 ---
