@@ -20,8 +20,10 @@ With over 5 years of experience in software development and DevOps, I've built s
 - 💬 Ask me about **Flask, Java, Spring Boot, React, Dash, Docker, Jenkins, ML**.
 - 👯 Looking to collaborate on **DevOps pipelines, AI/ML apps, or backend APIs**.
 - 📫 Contact me at **hlcxpl@gmail.com**
-- ⚡ Fun Fact: I’m a **meme creator with a love for problem-solving**.
 
+💼 I've built applications for Mining, Finance, Agriculture, and Smart Water Management industries.
+
+🌍 Originally from Venezuela 🇻🇪, based in Chile 🇨🇱, working remotely 🌐.
 ---
 
 ## 🧠 Featured Projects
