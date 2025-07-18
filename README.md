@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Sanchez</h1>
+
 ### 💻 Fullstack JavaScript Developer | 🧠 Data Scientist in Progress | 🎓 Computer Engineer
 
 With over 5 years of experience in software development and DevOps, I've built scalable platforms across various sectors, including **mining**, **agriculture**, and **finance**. My core stack includes **JavaScript (React/Node.js)**, **Python (Flask/Django/Dash)**, **Java (Spring Boot)**, and DevOps tools like **Docker, Jenkins, and SonarQube**.
