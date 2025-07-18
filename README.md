@@ -91,6 +91,7 @@ With over 5 years of experience in software development and DevOps, I've built s
 
 ### 🧪 DevOps & Automation
 <p>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
