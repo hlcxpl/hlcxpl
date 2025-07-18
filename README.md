@@ -105,6 +105,12 @@ With over 5 years of experience in software development and DevOps, I've built s
   <img src="https://static.cdnlogo.com/logos/i/55/instana-inc.svg" width="40" alt="Instana" />
 </p>
 
+---
+
+### 🖥️ Sistemas Operativos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,apple,aws" />
+</p>
 
 ---
 
