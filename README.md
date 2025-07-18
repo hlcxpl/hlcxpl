@@ -55,7 +55,7 @@ With over 5 years of experience in software development and DevOps, I've built s
 ## 🧰 Tech Stack
 
 ### 🖥️ Frontend
-[<p>
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -68,7 +68,7 @@ With over 5 years of experience in software development and DevOps, I've built s
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" alt="shadcn/ui" title="shadcn/ui"/>
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,dash,chadcn/ui,Plotly" />
 </p>
 
 
