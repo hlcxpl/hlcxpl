@@ -90,7 +90,7 @@ With over 5 years of experience in software development and DevOps, I've built s
 #### 🧩 ORMs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=sequelize,prisma" alt="ORMs Skill Icons" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" alt="SQLAlchemy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="60" alt="SQLAlchemy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="40" alt="Hibernate" />
 </p>
 
