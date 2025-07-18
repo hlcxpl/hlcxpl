@@ -1,53 +1,63 @@
-<h1 align="center">Hi 👋, I'm Luis Sanchez</h1>
-<h3 align="center">🚀 Fullstack JavaScript Developer | DevOps Engineer | Aspiring Data Scientist</h3>
+
+# 👋 Hi, I'm Luis Sánchez
+
+### 💻 Fullstack JavaScript Developer | 🧠 Data Scientist in Progress | 🎓 Computer Engineer
+
+With over 5 years of experience in software development and DevOps, I've built scalable platforms across various sectors, including **mining**, **agriculture**, and **finance**. My core stack includes **JavaScript (React/Node.js)**, **Python (Flask/Django/Dash)**, **Java (Spring Boot)**, and DevOps tools like **Docker, Jenkins, and SonarQube**.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on: `E-commerce (KIWI)` and real-time apps with Next.js & Dash.
+- 📊 Practicing: Data Science, Machine Learning, Python for AI.
+- 👯 I'm open to collaboration on: AI + DevOps projects, Open Source APIs, Developer Tools.
+- 🌱 Learning: FastAPI, Kafka, PyTorch, TensorFlow, LangChain.
+- 📫 How to reach me: **hlcxpl@gmail.com**
+- 🧠 Fun fact: I love creating memes and technical diagrams with Mermaid & PlantUML.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**: JavaScript, Python, Java, SQL, PHP, Bash  
+**Frontend**: React, Vue.js, Next.js, Tailwind, Bootstrap, MaterialUI  
+**Backend**: Node.js, Flask, Django, Spring Boot, Express  
+**Data**: Pandas, Numpy, Matplotlib, Plotly, PostgreSQL, MongoDB, MySQL  
+**DevOps**: Docker, Jenkins, GitHub Actions, SonarQube, Selenium, JMeter  
+**Cloud**: Azure, Heroku, Firebase, Render  
+**Tools**: Git, Postman, Swagger, Figma, Linux, ELK Stack, JIRA  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://hlcxpl.github.io/"><img src="https://komarev.com/ghpvc/?username=hlcxpl&label=Profile%20views&color=0e75b6&style=flat" alt="hlcxpl" /></a>
-  <a href="https://twitter.com/hlcxpl"><img src="https://img.shields.io/twitter/follow/hlcxpl?logo=twitter&style=for-the-badge" alt="hlcxpl" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hlcxpl&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlcxpl&theme=radical" width="48%"/>
 </p>
-
----
-
-### 🔥 About Me
-- 🎓 Computer Engineer with 5+ years in the private sector.
-- 💻 Frontend & Backend Developer | DevOps practices with CI/CD, Docker, Jenkins.
-- 📊 Learning: **Python, Angular, Vue, Laravel, Flutter, Data Science & AI.**
-- 🛍️ Current Project: [Kiwi E-commerce](https://shopg-33.netlify.app/)
-- 👯 Open to collaborate on: **Machine Learning | Fullstack Projects | Automation**
-- 📫 Reach me: **hlcxpl@gmail.com**
-- 🎨 Fun fact: **Meme Fan and Creator**
-
-### 📂 Featured Projects
-<!-- Update with your pinned repos or recent projects -->
-- 🔗 [hlcxpl.github.io](https://hlcxpl.github.io/) - Portfolio & Projects
-- 🔗 [devops-selenium-pytest](https://github.com/hlcxpl/devops-selenium-pytest) - Selenium tests with CI/CD
-- 🔗 [cookiecutter-flask-api-env-rooted](https://github.com/hlcxpl/cookiecutter-flask-api-env-rooted) - Flask API template with JWT & Swagger
-
-### 🧰 Technologies & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,postgres,docker,git,linux,python,java,flask,tailwind,vue,angular,jenkins,selenium" />
-</p>
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hlcxpl&show_icons=true&theme=radical" alt="hlcxpl" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hlcxpl&theme=radical" alt="hlcxpl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlcxpl&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
 
-### 📣 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/luisomarsanchezdiaz"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://dev.to/hlcxpl"><img src="https://skillicons.dev/icons?i=devto" /></a>
-<a href="https://twitter.com/hlcxpl"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://instagram.com/luisthepower"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://stackoverflow.com/users/21915164/luis"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-</p>
+## 📂 Featured Projects
+
+- [🔗 DevOps Selenium Pytest GitHub Action](https://github.com/hlcxpl/devops-selenium-pytest) — Multi-browser testing with CI
+- [📊 Dash Data App](https://github.com/hlcxpl/dash-data-app) — Python Dash for real-time analytics
+- [🧠 NeuroTIP AI Platform](https://github.com/hlcxpl/neurotip) — AI-driven tech business platform (WIP)
+- [🛒 KIWI E-commerce](https://shopg-33.netlify.app/) — Serverless e-commerce with modern stack
 
 ---
 
-### ☕ Support Me
-<p><a href="https://www.buymeacoffee.com/hlcxpl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="hlcxpl" /></a>
-<a href="https://ko-fi.com/hlcxpl"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="hlcxpl" /></a></p>
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/luisomarsanchezdiaz/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&style=for-the-badge)](https://twitter.com/hlcxpl)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@hlcxpl)
+[![Dev.to](https://img.shields.io/badge/Dev.to-black?logo=dev.to&style=for-the-badge)](https://dev.to/hlcxpl)
+[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-yellow?logo=buymeacoffee&style=for-the-badge)](https://www.buymeacoffee.com/hlcxpl)
+
+---
 
