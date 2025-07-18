@@ -89,7 +89,7 @@ With over 5 years of experience in software development and DevOps, I've built s
 
 #### 🧩 ORMs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sequelize,prisma,typeorm" alt="ORMs Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=sequelize,prisma" alt="ORMs Skill Icons" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" alt="SQLAlchemy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="40" alt="Hibernate" />
 </p>
@@ -98,7 +98,7 @@ With over 5 years of experience in software development and DevOps, I've built s
 
 #### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,redis" alt="Databases Icons" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="Databases Icons" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" alt="MariaDB" />
 </p>
