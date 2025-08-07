@@ -130,7 +130,7 @@
 
 ### 🧪 DevOps & Automation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,kubernetes,git,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,kubernetes,git,linux,terraform,ansible" />
 </p>
 
 ---
