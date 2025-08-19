@@ -86,7 +86,7 @@
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python,flask,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python,flask,django,typescript" />
    <img src="https://skillicons.dev/icons?i=kafka" />
 </p>
 
