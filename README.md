@@ -68,14 +68,14 @@
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,html,css,sass,less,bootstrap,tailwind,python,ts&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,next,html,css,sass,less,bootstrap,tailwind,python,ts&perline=12" />
 </p>
 
 ---
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python,flask,django,ts,kafka&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python,flask,django,ts,kafka&perline=12" />
 </p>
 
 ---
