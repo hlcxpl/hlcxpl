@@ -80,10 +80,16 @@
 
 ---
 
+### ☁️ Infraestructura en la Nube
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,heroku,netlify,railway&perline=12" />
+</p>
+
+---
+
 ### 🔄 Messaging & Streaming
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&perline=12" />
 </p>
 
 ---
@@ -139,6 +145,18 @@
 </p>
 
 ---
+
+### 🧰 IDEs & Editors
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,sublime,idea,pycharm,webstorm&perline=12" />
+</p>
+
+---
+
+### 📦 Package Managers
+<p>
+  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,bun&perline=12" />
+</p>
 
 ## 📬 Connect with Me
 
