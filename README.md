@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hlcxpl&theme=onedark&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hlcxpl&theme=onedark&column=7" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,html,css,sass,less,bootstrap,tailwind,python,ts&perline=12" />
+  <img src="https://skillicons.dev/icons?i=react,next,html,css,sass,less,bootstrap,tailwind,python,ts,materialui&perline=12" />
 </p>
 
 ---
