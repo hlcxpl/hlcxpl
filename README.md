@@ -148,14 +148,14 @@
 
 ### 🧰 IDEs & Editors
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,sublime,idea,pycharm,webstorm&perline=12" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,sublime,idea,pycharm&perline=12" />
 </p>
 
 ---
 
 ### 📦 Package Managers
 <p>
-  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,bun&perline=12" />
+  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm&perline=12" />
 </p>
 
 ## 📬 Connect with Me
