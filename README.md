@@ -12,12 +12,13 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/hlcxpl">
+  <a href="https://github.com/hlcxpl" style="text-decoration:none;">
     <img src="https://komarev.com/ghpvc/?username=hlcxpl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="https://twitter.com/hlcxpl">
+  <a href="https://twitter.com/hlcxpl" style="text-decoration:none;">
     <img src="https://img.shields.io/twitter/follow/hlcxpl?logo=twitter&style=flat-square" alt="Twitter Follow" />
-  <a href="https://github.com/hlcxpl">
+  </a>
+  <a href="https://github.com/hlcxpl" style="text-decoration:none;">
     <img src="https://img.shields.io/github/followers/hlcxpl?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>

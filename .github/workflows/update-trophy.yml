@@ -3,10 +3,10 @@ name: Update GitHub Trophy
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *" # diario 06:00 UTC
+    - cron: "0 6 * * *"
 
 permissions:
-  contents: write # necesario para hacer commit
+  contents: write
 
 jobs:
   update-trophy:
