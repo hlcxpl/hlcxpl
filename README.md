@@ -59,9 +59,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hlcxpl&theme=onedark&column=7" />
+  <img src="./assets/trophy.svg" alt="GitHub Trophies" />
 </p>
-
 ---
 
 ## 🧰 Tech Stack
