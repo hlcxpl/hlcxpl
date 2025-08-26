@@ -1,0 +1,31 @@
+name: Update GitHub Trophy
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *" # todos los días a las 06:00 UTC
+
+jobs:
+  update-trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ensure assets folder
+        run: mkdir -p assets
+
+      - name: Fetch trophy SVG
+        run: |
+          set -euo pipefail
+          curl -sSLo assets/trophy.svg \
+            "https://github-profile-trophy.vercel.app/?username=hlcxpl&theme=onedark&column=7"
+          # valida que el archivo no esté vacío y sea SVG
+          test -s assets/trophy.svg
+          head -n1 assets/trophy.svg | grep -qi "<svg"
+
+      - name: Commit updated trophy.svg
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update trophy.svg [skip ci]"
+          file_pattern: "assets/trophy.svg"
