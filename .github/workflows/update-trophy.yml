@@ -3,7 +3,10 @@ name: Update GitHub Trophy
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *" # todos los días a las 06:00 UTC
+    - cron: "0 6 * * *" # diario 06:00 UTC
+
+permissions:
+  contents: write # necesario para hacer commit
 
 jobs:
   update-trophy:
@@ -15,16 +18,48 @@ jobs:
       - name: Ensure assets folder
         run: mkdir -p assets
 
-      - name: Fetch trophy SVG
+      - name: Fetch trophy SVG (with retries, UA, and validation)
+        id: fetch
+        shell: bash
         run: |
           set -euo pipefail
-          curl -sSLo assets/trophy.svg \
-            "https://github-profile-trophy.vercel.app/?username=hlcxpl&theme=onedark&column=7"
-          # valida que el archivo no esté vacío y sea SVG
-          test -s assets/trophy.svg
-          head -n1 assets/trophy.svg | grep -qi "<svg"
+          URL="https://github-profile-trophy.vercel.app/?username=hlcxpl&theme=onedark&column=7"
+
+          # Descarga a archivo temporal, con reintentos y timeout
+          STATUS=$(curl -sS -L -f \
+            --retry 5 --retry-delay 3 --max-time 60 \
+            -A "Mozilla/5.0 (GitHub Actions; +https://github.com/hlcxpl)" \
+            -w "%{http_code}" -o assets/trophy.tmp "$URL" || echo "000")
+
+          echo "HTTP_STATUS=$STATUS"
+
+          if [[ "$STATUS" != "200" ]]; then
+            echo "Warning: fetch failed with status $STATUS. Keeping previous SVG if exists."
+            echo "updated=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # Validar que el contenido parezca SVG
+          if ! grep -qi "<svg" assets/trophy.tmp; then
+            echo "Warning: downloaded content is not SVG. Keeping previous SVG."
+            echo "updated=false" >> "$GITHUB_OUTPUT"
+            rm -f assets/trophy.tmp
+            exit 0
+          fi
+
+          # Mover al archivo final solo si cambió
+          if [[ -f assets/trophy.svg ]] && cmp -s assets/trophy.tmp assets/trophy.svg; then
+            echo "No changes in SVG."
+            rm -f assets/trophy.tmp
+            echo "updated=false" >> "$GITHUB_OUTPUT"
+          else
+            mv assets/trophy.tmp assets/trophy.svg
+            echo "SVG updated."
+            echo "updated=true" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Commit updated trophy.svg
+        if: steps.fetch.outputs.updated == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update trophy.svg [skip ci]"
