@@ -148,9 +148,12 @@
 ---
 
 ### 🖥️ Sistemas Operativos
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,apple" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,apple&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,apple&theme=light"
+       alt="SO" height="48" />
+</picture>
 
 ---
 
