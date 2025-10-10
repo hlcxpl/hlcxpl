@@ -133,7 +133,15 @@
 
 ### 🧪 DevOps & Automation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,kubernetes,git,linux,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,ansible,linux,git,bash" />
+</p>
+
+---
+
+### 🚀 GitOps & Delivery
+<p align="left">
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="50" alt="ArgoCD"/>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab" />
 </p>
 
 ---
