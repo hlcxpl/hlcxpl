@@ -134,6 +134,7 @@
 ### 🧪 DevOps & Automation
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,linux,git,bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="50" alt="Helm" />
 </p>
 
 ---
