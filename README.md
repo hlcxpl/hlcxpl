@@ -133,7 +133,7 @@
 
 ### 🧪 DevOps & Automation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,ansible,linux,git,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,linux,git,bash" />
 </p>
 
 ---
